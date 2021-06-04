@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello Github! 🌞
 
-<!--
-**nathaliaacouto/nathaliaacouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Brazilian computer science student in love with books, movies, animals, technology, and innovation 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gmail: nathaliavcouto@gmail.com <br>
+Linkedin: https://www.linkedin.com/in/nathalia-vcouto/
+
+---
+
+Here you will find some of my projects, at the moment I work mainly with Python and HTML/CSS. Hope you enjoy it, feel free to contact me 🌞
+
+#### My website: https://nathaliaacouto.github.io/index2.html/Index.HTML 
