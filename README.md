@@ -9,6 +9,6 @@ Linkedin: https://www.linkedin.com/in/nathalia-vcouto/
 
 ---
 
-Here you will find some of my projects, at the moment I work mainly with Python and HTML/CSS. Hope you enjoy it, feel free to contact me 🌞
+Here you will find some of my projects, at the moment I work mainly with C and HTML/CSS. Hope you enjoy it, feel free to contact me 🌞
 
 #### My website: https://nathaliaacouto.github.io/website/index.html
